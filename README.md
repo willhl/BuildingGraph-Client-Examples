@@ -2,10 +2,10 @@
 
 Dynamo and Grasshopper examples as presented at Autodesk University Las Vegas 2019.
 
-1 - Create a project, building and levels
-2 - Create spaces and add to building, calculate  volumes, area and other basic calcs
-3 - Add data to space for circuits, electrical outlets and DB Panels
-4 - Update spaces in Revit and add terminals, sockets and panels
+1. Create a project, building and levels
+2. Create spaces and add to building, calculate  volumes, area and other basic calcs
+3. Add data to space for circuits, electrical outlets and DB Panels
+4. Update spaces in Revit with data provided in stage 2
 
 For Dynamo build BuildingGraph-Client-Revit\BuildingGraph.Integration.Dynamo, then import BuildingGraph.dll.
 
